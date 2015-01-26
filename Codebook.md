@@ -1,9 +1,4 @@
 
-\f0\fs24 \cf0 <style type="text/css">\
-.tg  \{border-collapse:collapse;border-spacing:0;\}\
-.tg td\{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;\}\
-.tg th\{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;\}\
-</style>\
 <table class="tg">\
   <tr>\
     <th class="tg-031e">Column</th>\
@@ -371,4 +366,4 @@
     <td class="tg-031e">Frequency Domain Gyroscopic Jerk Magnitude Std Dev.</td>\
     <td class="tg-031e">Grouped Mean</td>\
   </tr>\
-</table>}
+</table>
